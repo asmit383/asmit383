@@ -1,4 +1,4 @@
 Hey I am Asmit Roy👋
-![Typing animation](./typing.svg)
+![Typing animation](./typing.html)
 ![Snake animation](./snake.svg)
 
