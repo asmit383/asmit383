@@ -10,8 +10,15 @@ My interests live around Machine Learning, distributed systems, and IoT devices 
 
 If it's data-driven, automation-heavy, or performance critical, I'm probably experimenting with it.
 
-### Some things I am trying to be better at 🔧
--Maintaining a structured workflow to stay productive and deliver high-quality work.
+<details>
+  <summary><strong>Some things I am trying to be better at 🔧</strong></summary>
+
+  <br>
+  
+ -Building stronger focus and productivity habits to level up my work quality.
+
+</details>
+
 
 
 ![Snake animation](./snake.svg)
