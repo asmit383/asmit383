@@ -60,11 +60,8 @@ If it's data-driven, automation-heavy, or performance critical, I'm probably exp
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/>
       <br><b>TypeScript</b>
     </td>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50"/>
-      <br><b>Next.js</b>
-    </td>
   </tr>
+
   <tr>
     <td align="center" width="140">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
@@ -74,8 +71,13 @@ If it's data-driven, automation-heavy, or performance critical, I'm probably exp
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
       <br><b>React</b>
     </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50"/>
+      <br><b>Next.js</b>
+    </td>
   </tr>
 </table>
+
 
 
 
