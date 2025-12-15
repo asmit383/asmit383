@@ -38,36 +38,41 @@ If it's data-driven, automation-heavy, or performance critical, I'm probably exp
 
   <br>
 
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-        <br><b>Python</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/>
-        <br><b>PyTorch</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/>
-        <br><b>TensorFlow</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-        <br><b>JavaScript</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
-        <br><b>Node.js</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
-        <br><b>React</b>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/>
+      <br><b>PyTorch</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/>
+      <br><b>TensorFlow</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+      <br><b>JavaScript</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/>
+      <br><b>TypeScript</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
+      <br><b>Node.js</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
+      <br><b>React</b>
+    </td>
+  </tr>
+</table>
+
 
 </details>
 
